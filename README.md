@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## New Content
 
 replaced blabla
+
+## Deployment
+
+deploy where you want
