@@ -1,2 +1,3 @@
 .system_file
 *.log
+*.orig
